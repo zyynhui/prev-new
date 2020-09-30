@@ -1,6 +1,8 @@
 <template>
   <div class="public">
     <img src="../image/Bitmap.jpg" >
+
+    
     <div class="formContainer">
       <el-form :label-position="labelPosition" label-width="80px" :model="formLabelAlign">
           <span>用户名</span>
